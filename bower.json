@@ -1,0 +1,9 @@
+{
+  "name": "grapheme-splitter",
+  "description": "A JavaScipt library that breaks strings into their individual user-perceived characters. It supports emojis!",
+  "authors": [
+    "Orlin Georgiev",
+    "Lucas Tadeu Teixeira"
+  ],
+  "main": "grapheme-splitter.js"
+}
